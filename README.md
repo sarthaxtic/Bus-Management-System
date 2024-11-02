@@ -1,7 +1,6 @@
-**Bus Management System**
+# **Bus Management System**
 
-(https://scontent.fdel27-2.fna.fbcdn.net/v/t1.6435-9/39208395_2214040242163958_270123098974453760_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=cf85f3&_nc_ohc=dk9USHyRPGoQ7kNvgEl4Q8x&_nc_zt=23&_nc_ht=scontent.fdel27-2.fna&_nc_gid=A7RgPAq4-r-OdSm_4MHJ0ea&oh=00_AYDYAanerth8NR8ZncCzT-9Cp5pVWdathkpT4QN_44A5PA&oe=674DD37C)
-
+![Bus Management System Banner](https://tinyurl.com/24m3c2fp)
 
 ## **Project Overview**
 
