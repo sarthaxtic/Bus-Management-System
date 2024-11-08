@@ -37,7 +37,7 @@ The **Bus Management System** is a web-based platform designed for **Graphic Era
 
 - **Frontend**: React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js
-- **Database**: MongoDB or MySQL (depending on preference)
+- **Database**: MySQL
 - **Hosting**: To be determined
 - **Version Control**: GitHub
 
@@ -54,7 +54,7 @@ The **Bus Management System** is a web-based platform designed for **Graphic Era
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/AmanBhatt0910/Bus-Management-System.git
+   git clone https://github.com/sarthaxtic/Bus-Management-System.git
    cd Bus-Management-System
    ```
 
